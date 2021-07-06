@@ -6,8 +6,9 @@ namespace Estudo_Cap_GIT_GITHUB
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Ola Mundo");
+            Console.WriteLine("Olá mundo!");
+            Console.WriteLine("Bom dia");
+            Console.WriteLine("Como você está hoje?");
             Console.ReadLine();
         }
     }
